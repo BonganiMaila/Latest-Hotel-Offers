@@ -3,7 +3,7 @@ This is an online hotel offer page done in Javascript, and css
 
 ## Table of Contents
 - Index page
-- This index page shows a welcome message, calculates the discount, it also mentions when the offer/discount ends.
+- This index page shows a name of hotel, calculates the discount, it also mentions when the offer/discount ends.
 
 
 
