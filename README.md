@@ -27,7 +27,7 @@ This is an online hotel offer page done in Javascript, and css
 ## Screenshots of the pages
 
 ### Index
-![](https://github.com/BonganiMaila/online-order-page-sample/blob/main/online_order_sample/sample.png)
+![](https://github.com/BonganiMaila/Latest-Hotel-Offers/blob/main/methods%20and%20objects/hotel_offer.png)
 
 
 
